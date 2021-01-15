@@ -14,4 +14,4 @@ This repository contains documentation and code for the personal homework of Spe
 - The final comparison can be seen by using change button.
 
 ### Source Code
-- 18_create_landsat_timelapse.ipynb source code was learned from https://www.youtube.com/watch?v=OwjSJnGWKJs&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=19&ab_channel=QiushengWu youtube video.
+- 18_create_landsat_timelapse.ipynb source code was learned from [GEE Tutorial #18 - Creating Landsat timelapse animations with animated text using Earth Engine](https://www.youtube.com/watch?v=OwjSJnGWKJs&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=19&ab_channel=QiushengWu) youtube video.
