@@ -8,7 +8,10 @@ This repository contains documentation and code for the personal homework of Spe
 - The "Change in Istanbul Airport Region" project was created by using Git, GitHub, and Google Earth Engine. 
 - Test images were obtained online from the Google Earth Engine.
 - Signing in Google account is required to monitor output images.
-- Landsat RGB images are used to determine change in region from 1985. 
+- Landsat RGB images are used to determine change in region from 1985, and to create timelaps animations. 
 - The GIF of change of the area can be seen on the map.
 - The split method was used to make dual comparison of images taken from different years (1998-2019).
 - The final comparison can be seen by using change button.
+
+### Source Code
+- 18_create_landsat_timelapse.ipynb source code was learned from https://www.youtube.com/watch?v=OwjSJnGWKJs&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=19&ab_channel=QiushengWu youtube video.
